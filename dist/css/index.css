@@ -1,0 +1,9 @@
+body{
+    background-color: red;
+    color:white;
+}
+#pic{
+    background-image:url(http://localhost:8888/images/2b04df3ecc1d94afddff082d139c6f15.jpg);
+    width:300px;
+    height:300px;
+}

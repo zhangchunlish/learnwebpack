@@ -1,0 +1,9 @@
+body{
+    background-color: red;
+    color:white;
+}
+#pic{
+    background-image:url(../images/Koala.jpg);
+    width:300px;
+    height:300px;
+}
